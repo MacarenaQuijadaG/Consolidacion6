@@ -1,0 +1,19 @@
+Developer info
+Edit
+Your 
+Current Plan
+Free
+Number of requests left for the period
+20000
+Number of requests will renew on
+12/8/2023
+Full name
+Contact email
+mcarena.quijada@outlook.com
+Site/App url
+http://localhost:8080
+Describe in a few words how you would like to use RAWG’s API
+Fines Educacionales
+API Key
+2fc721a57531406fb663e0e8d4b00b82
+Refresh Key 
